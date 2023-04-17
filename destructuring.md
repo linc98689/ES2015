@@ -1,13 +1,3 @@
-<style>
-    .code-important{
-        color:red;
-        font-family:monospace;
-        font-style:italic;
-        padding:2px;
-        background:#f0fbf7;
-    }
-</style>
-
 # Destructuring Exercise
 
 ### Object Destructuring 1
@@ -155,7 +145,7 @@ Write a function called **_raceResults_** which accepts a single array argumen
 
 - An arrow function
 - Destructuring
-- <span class="code-important">Enhanced </span> object assignment (same key/value shortcut)
+- **_`Enhanced`_** object assignment (same key/value shortcut)
 
 ```javascript
 const raceResults = ([first, second, third, ...rest]) => ({

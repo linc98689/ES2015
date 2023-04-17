@@ -73,7 +73,8 @@ let instructor = {
 };
 ```
 
-###createAnimal function
+### createAnimal function
+
 Write a function which generates an animal object. The function should accepts 3 arguments:
 
 - species: the species of animal (‘cat’, ‘dog’)
